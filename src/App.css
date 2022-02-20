@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 10px;
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+  border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 20px;
+  background-color: #c1c1c1;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #a6a6a6;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #F3F2F3;
+}
+
+main {
+  /* text-align: center; */
+  margin: 100px;
+}
+
+h1 {
+  text-align: center;
+}
