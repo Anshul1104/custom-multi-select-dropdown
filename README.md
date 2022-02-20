@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Packages Used
+
+Axios: For Promise based HTTP client for the browser and node.js, for doing api calls.
+
+React Query: Hooks for fetching, caching and updating asynchronous data in React
+
+React Outside Click Handler: A React component for handling outside clicks
+
+React Icons: Add Popular icons using React Icons
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -68,6 +78,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-![Screenshot (424)](https://user-images.githubusercontent.com/20599899/142760986-a79a8772-81f5-41ee-b1af-53b659e3685a.png)
-![Screenshot (425)](https://user-images.githubusercontent.com/20599899/142760989-8aa3084b-cd5c-48be-b7b0-d1182b39ad2a.png)
-![Screenshot (426)](https://user-images.githubusercontent.com/20599899/142760991-152ba999-6df0-437b-aef2-cc41b9764a4d.png)
