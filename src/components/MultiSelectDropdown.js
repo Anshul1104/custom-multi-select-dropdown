@@ -59,7 +59,7 @@ const MultiSelectDropdown = () => {
     const [query, setQuery] = useState("");
 
     const fetchData = async () => {
-        const { data } = await axios.get('https://api.open-notify.org/astros.json');
+        const { data } = await axios.get('http://api.open-notify.org/astros.json');
         return data?.people;
     };
 
